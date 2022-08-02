@@ -52,5 +52,5 @@ jobs:
         with:
           app-name: 'kolabs'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_D32CBB4350054A8BBE282926F8A69623 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_0686A3FB20244230A5E49E605E31D370 }}
           package: .
